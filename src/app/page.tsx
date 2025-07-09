@@ -18,6 +18,7 @@ export default function Home() {
             Get started by editing <code>src/app/page.tsx</code>.
           </li>
           <li>Save and see your changes instantly. from first app</li>
+          <li> this is second changes before deployments</li>
         </ol>
 
         <div className={styles.ctas}>
